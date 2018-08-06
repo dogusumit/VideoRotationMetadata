@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Video Rotation Metadata</string>
+    <string name="str1">Select Video</string>
+    <string name="str2">Start</string>
+    <string name="str4">Stop</string>
+    <string name="str5">Successfully completed</string>
+    <string name="str6">Error!</string>
+    <string name="str7">User stopped!</string>
+    <string name="str8">Running&#8230;</string>
+    <string name="str9">Video not selected!</string>
+    <string name="str10">File not accessible!</string>
+    <string name="str11">current rotation :</string>
+    <string name="str12">Would you like to open the gallery?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="dir">VideoRotate</string>
+    <string-array name="spin_items">
+        <item>0&#176;</item>
+        <item>90&#176;</item>
+        <item>180&#176;</item>
+        <item>270&#176;</item>
+    </string-array>
+    <string name="oyla">Rate App</string>
+    <string name="market">My Other Apps</string>
+    <string name="cikis">Exit</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-4322301902835072/5167781950</string>
+</resources>

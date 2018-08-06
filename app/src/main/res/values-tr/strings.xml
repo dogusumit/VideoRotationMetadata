@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video Döndürme Metadata</string>
+    <string name="str1">Video Seç</string>
+    <string name="str2">Başlat</string>
+    <string name="str4">Durdur</string>
+    <string name="str5">Başarıyla Tamamlandı!</string>
+    <string name="str6">Hata Oluştu!</string>
+    <string name="str7">Kullanıcı durdurdu!</string>
+    <string name="str8">Çalışıyor&#8230;</string>
+    <string name="str9">Video Secilmedi!</string>
+    <string name="str10">Dosyaya Erisilemedi!</string>
+    <string name="str11">şimdiki açı :</string>
+    <string name="str12">Galeriyi açmak ister misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="dir">VideoDondurme</string>
+    <string-array name="spin_items">
+        <item>0&#176;</item>
+        <item>90&#176;</item>
+        <item>180&#176;</item>
+        <item>270&#176;</item>
+    </string-array>
+    <string name="oyla">Uygulamayı Oyla</string>
+    <string name="market">Diğer Uygulamalarım</string>
+    <string name="cikis">Çıkış</string>
+</resources>
